@@ -49,7 +49,6 @@ to learn this if you don't know already.
 1. First get yourself a GitHub account
 2. Do the Git challenges and learn the basics of git https://try.github.io/
 3. Fork this repository into your own account
-   https://github.com/NHSLeadership/work-experience
 4. Share the URL for your repo with the digital team so they can see and help
    with your work.
 
@@ -78,7 +77,6 @@ Notepad or an online place you can write code like
 2. Include the CSS file we're already compiled for you from this repository
 3. Using our framework [here](https://github.com/NHSLeadership/nightingale) and
    the comments we've already made within main.scss and implementationo examples in index.html produce something similar to the inspiration section in whatever complexity you feel comfortable with.
-
 If you're looking at Nightingale and the filenames or syntax seems strange it's
 because we're using SASS. It's nothing to worry about but if you feel you want
 to know more see: http://sass-lang.com/
@@ -90,9 +88,9 @@ team and we'll be happy to help.
 
 ## Resources
 
-SASS: http://sass-lang.com/
-GitHub Guides: https://guides.github.com/
-Git Guide: https://rogerdudler.github.io/git-guide/
-HTML Reference: http://htmlreference.io/
-CSS Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- [SASS](http://sass-lang.com/)
+- [GitHub Guides](https://guides.github.com/)
+- [Git Guide](https://rogerdudler.github.io/git-guide/)
+- [HTML Reference](http://htmlreference.io/)
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
