@@ -10,25 +10,6 @@ code needed to style a webpage in the NHS brand.
 We want to see sections for each type of code element, what it looks like and
 the code I need to copy and paste to make it.
 
-For example:
-
-For the section on buttons we'd be looking for something like this (with your
-own artistic flair):
-
-![Details](details.png)
-
-```
-<details open="">
-  <summary>Expandable Content – Open by Default</summary>
-
-  <div>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifendleo.</p>
-  </div>
-</details>
-```
-
-Or something from the below section
-
 ## Inspiration
 - [Sky.com Toolkit](https://www.sky.com/toolkit)
 - [Heroku Purple](https://purple3.herokuapp.com/)
@@ -81,10 +62,23 @@ If you're looking at Nightingale and the filenames or syntax seems strange it's
 because we're using SASS. It's nothing to worry about but if you feel you want
 to know more see: http://sass-lang.com/
 
+To give you some examples of what a part of the page would look like, we'd be looking for something like this, first part the finished implementation with the latter preformatted code blocks:
+
+![Details](details.png)
+
+```
+<details open="">
+  <summary>Expandable Content – Open by Default</summary>
+
+  <div>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifendleo.</p>
+  </div>
+</details>
+```
+
 ## Help
 
-If you're struggling with anything, feel free to ask anyone from the Digital
-team and we'll be happy to help.
+If you're struggling with anything, feel free to ask anyone from Digital and we'll be happy to help.
 
 ## Resources
 
