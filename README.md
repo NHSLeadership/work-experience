@@ -1,7 +1,8 @@
 # Work Experience
+
 > Your mission, should you choose to accept it...
 
-![Mission](https://i.kinja-img.com/gawker-media/image/upload/s--ASG44QyO--/c_scale,fl_progressive,q_80,w_800/1362340518504706919.jpg)
+![Mission](http://film-enthusiast.com/wp-content/uploads/2015/07/mi.jpg)
 
 We would like you to create and host a webpage on GitHub that shows the
 code needed to style a webpage in the NHS brand.
@@ -14,9 +15,17 @@ For example:
 For the section on buttons we'd be looking for something like this (with your
 own artistic flair):
 
-![Click Button](button.png)
+![Details](details.png)
 
-> <a href="#0" class="c-btn  c-btn--submit  is-disabled">Click me!</a>
+```
+<details open="">
+  <summary>Expandable Content – Open by Default</summary>
+
+  <div>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifendleo.</p>
+  </div>
+</details>
+```
 
 Or something from the below section
 
@@ -86,5 +95,4 @@ GitHub Guides: https://guides.github.com/
 Git Guide: https://rogerdudler.github.io/git-guide/
 HTML Reference: http://htmlreference.io/
 CSS Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
-
 
