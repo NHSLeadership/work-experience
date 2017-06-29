@@ -2,7 +2,7 @@
 
 > Your mission, should you choose to accept it...
 
-![Mission](http://film-enthusiast.com/wp-content/uploads/2015/07/mi.jpg)
+[![Mission](https://img.youtube.com/vi/ar0xLps7WSY/0.jpg)](https://www.youtube.com/watch?v=ar0xLps7WSY)
 
 We would like you to create and host a webpage on GitHub that shows the
 code needed to style a webpage in the NHS brand.
